@@ -28,7 +28,6 @@ NOVA AI is a modern, feature-rich AI chatbot built with HTML, CSS, and JavaScrip
 * Content Creators
 * Researchers
 * AI Enthusiasts
-* Productivity Users
 
 ## 🛠️ Technologies Used
 
